@@ -14,13 +14,18 @@
     width: 80%;
     height: 135px;
     font-size: 19px;
-    line-height: 1.4;
+    line-height: 35px;
 }
 
 h2 {
     text-align: center; 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
-    font-size: 50px;
+    font-size: 65px;
+    font-family: PlayfairDisplay;
+    font-weight: bold;
+    padding-top: 60px;
+    padding-bottom: 28px;
+    margin: 0px;
 }
  
 #avatar {
@@ -39,8 +44,8 @@ p {
 }
 
 body {
-    padding-left: 400px; 
-    padding-right: 400px
+    padding-left: 380px; 
+    padding-right: 380px
 }
  
 h3 {
