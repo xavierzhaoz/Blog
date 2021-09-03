@@ -5,7 +5,7 @@
    
 #leftbox1 {
     float: left;
-    width: 15%;
+    width: 20%;
     height: 135px;
 }
 
@@ -44,8 +44,8 @@ p {
 }
 
 body {
-    padding-left: 380px; 
-    padding-right: 380px
+    padding-left: 345px; 
+    padding-right: 345px;
 }
  
 h3 {
